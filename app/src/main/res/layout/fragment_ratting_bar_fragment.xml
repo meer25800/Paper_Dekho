@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fcfcfc"
+    tools:context=".Ratting_bar_fragment">
+    <RatingBar
+
+        android:id="@+id/ratingBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="60dp"
+        android:stepSize="0.5"
+        android:numStars="5"
+        android:rating="0" />
+
+    <Button
+        android:id="@+id/btnSubmit"
+        android:layout_width="110dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="250dp"
+        android:layout_marginLeft="150dp"
+        android:background="@color/colorPrimary"
+        android:text="@string/button"
+        android:textColor="#ffffff"
+        tools:ignore="RtlHardcoded" />
+    <TextView
+        android:id="@+id/tvRateCount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/your_rating"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="150dp"
+        tools:ignore="RtlHardcoded" />
+    <TextView
+        android:id="@+id/tvRateMessage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/your_rating"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="200dp"
+        tools:ignore="RtlHardcoded" />
+
+</FrameLayout>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "704198603704",
+    "firebase_url": "https://aamir-1d5b8.firebaseio.com",
+    "project_id": "aamir-1d5b8",
+    "storage_bucket": "aamir-1d5b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704198603704:android:495f466f69bce3cf",
+        "android_client_info": {
+          "package_name": "com.example.aamir.paperdekkho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704198603704-7qqn9cbl0k0nr2g3ncq65fvc9rs4osda.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aamir.paperdekkho",
+            "certificate_hash": "6d89f513e4da7c3157b91d5d3e24518c0e5c402b"
+          }
+        },
+        {
+          "client_id": "704198603704-kpscpts97sjvr88ehv00slbs51rcqni7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAylqQikYy40VOhN9DjLCILfX-6bunjLko"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704198603704-kpscpts97sjvr88ehv00slbs51rcqni7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

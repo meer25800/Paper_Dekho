@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#fff</color>
+    <color name="deeppurple">#7c4dff</color>
+    <color name="aamir1">#125000</color>
+    <color name="aamir2">#aad012</color>
+    <color name="aamir">#00bfa5</color>
+</resources>
